@@ -1,0 +1,1 @@
+This 6 exersises were to pratice CSS foundations. Css methods, class/ id selectors, grouping selectors, chaining selectors, descendant combinator, and cascade fix. Theses exersices helped me understand CSS basics and how they apply to HTML. 
